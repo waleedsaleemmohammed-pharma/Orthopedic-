@@ -1,0 +1,5 @@
+{
+  "name": "OrthoLog",
+  "description": "Digital Surgical Logbook & Clinical Social Network for Orthopedic Surgeons.",
+  "requestFramePermissions": ["camera"]
+}
